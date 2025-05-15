@@ -1,4 +1,4 @@
-# 👩🏻‍💻 José Clebson
+#  José Clebson
 
 **`Desenvolvedor FullStack`**
 
